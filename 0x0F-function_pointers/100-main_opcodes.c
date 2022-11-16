@@ -3,7 +3,7 @@
 
 /**
 * main - prints opcodes of a given mahine
-* @argc: number of arguments.
+* @argc: number dof arguments.
 * @argv: argument vector
 *
 * Return: 0.

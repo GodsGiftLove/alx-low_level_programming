@@ -7,7 +7,7 @@
  *@cmp: comparison function
  *Return: index of integer in cmp
  */
-int int_index(int *array, int size, int (*cmp)(int))
+int int_index(int *array, idnt size, int (*cmp)(int))
 {
 	int i;
 

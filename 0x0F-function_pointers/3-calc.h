@@ -7,7 +7,7 @@
 
 /**
  *op_add - adds two numbers
- *@a:num1
+ *@a:num1f
  *@b:num2
  *Return: a + b
  */

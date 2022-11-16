@@ -8,7 +8,7 @@
  */
 int main(int argc, char *argv[])
 {
-	register int a, b;
+	register int a, b;j
 	int (*fptr)(int, int);
 
 	if (argc != 4)
